@@ -1,3 +1,16 @@
+//
+//  DistanceSensorTest
+//
+//  This demonstration uses an ultrasonic distance sensor to drive the
+//  tone played from a speaker.  Different tones can be played by placing
+//  ones hand at different distances from the sensor.
+//
+//  Cornelius Brinegar
+//  2018
+//
+
+// This code is written for the Arduino 101 board.  Some modifications are
+// required for other boards.
 #include "CurieTimerOne.h"
 
 const int trigPin = 5;
